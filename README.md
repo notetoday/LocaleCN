@@ -9,7 +9,7 @@
 
 ## 命令
 
-    wget -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/LocaleCN/master/LocaleCN.sh && bash LocaleCN.sh
+    wget -N --no-check-certificate https://raw.githubusercontent.com/notetoday/LocaleCN/master/LocaleCN.sh && bash LocaleCN.sh
 
 ## 系统支持
 
@@ -21,8 +21,7 @@
 
 这个脚本在Digital Ocean上面都测试完成了。但是不清楚其他系统是否能测试成功。如果出现无法使用的情况，可以反馈给我。
 
-* 网站：[zhujiboke.com](https://www.zhujiboke.com)
-* QQ群：119612388
+* 网站：[www.notetoday.net](https://www.notetoday.net)
 * Github Issue
-* TG群：[https://t.me/functionclub](https://t.me/functionclub)
+* TG群：[https://t.me/Notestoday](https://t.me/Notestoday)
 
