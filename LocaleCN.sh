@@ -66,7 +66,9 @@ fi
 
 # Echo Success
 clear
+echo "您的 VPS 语言设置已更改为中文（简体）"
 echo "Your VPS Language setting is changed to Chinese(Simplified)"
+echo "重新连接到您的 VPS 进行检查"
 echo "Reconnect to your VPS to check it"
 echo ""
 echo "Powered By www.notetoday.net "
